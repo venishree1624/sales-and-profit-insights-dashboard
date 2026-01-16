@@ -27,3 +27,4 @@ for learning and academic purposes.
 ## Output
 - Dashboard screenshots are available in the `screenshots` folder
 - High-quality PDF export of the dashboard is included
+- Power BI source file (.pbix) is included for reference and review
